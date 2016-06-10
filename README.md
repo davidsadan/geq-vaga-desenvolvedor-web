@@ -85,4 +85,4 @@ Atributos de um Post são:
 
 ## Publicação
 
-- O projeto final deve ser publicado em sua conta do Github. E o link deve ser enviado para **anderson.andrade@geq.com.br**
+- O projeto final deve ser publicado em sua conta do Github. E o link deve ser enviado para **elenita.castro@geq.com.br** com o assunto: PROVA PROGRAMADOR - <SEU NOME>
